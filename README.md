@@ -226,10 +226,4 @@ cost of precision (more false positives).
 ## Citation
 
 ```bibtex
-@article{monti2026VariAE,
-  title   = {VariAE: Semi-supervised variable star classification on
-             LSST with a Variational Autoencoder},
-  author  = {Monti, Lorenzo},
-  year    = {2026}
-}
 ```
