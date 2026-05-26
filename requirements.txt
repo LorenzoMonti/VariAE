@@ -1,0 +1,26 @@
+# VariAE — dipendenze Python
+# Testato su Python 3.10+
+
+# Deep learning
+torch>=2.0.0          # CUDA opzionale, testato con cu126
+
+# Scientific computing
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+astropy>=5.3
+
+# Machine learning
+scikit-learn>=1.3
+
+# Visualizzazione / embedding
+matplotlib>=3.7
+umap-learn>=0.5.4
+
+# Utilities
+tqdm>=4.65
+
+# Installazione
+# pip install torch --index-url https://download.pytorch.org/whl/cu126   # GPU
+# pip install torch                                                        # CPU only
+# pip install numpy scipy pandas astropy scikit-learn matplotlib umap-learn tqdm

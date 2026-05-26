@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Project data (large files — not versioned) ────────────────────────────────
+lc_strict/
+lc_gentle/
+folded_strict/
+folded_gentle_extra/
+latent/
+results/
+periods/
+crossmatch/
+catalogs/
